@@ -1,0 +1,17 @@
+The 4-th sub-optimal Solution
+Printing Group 1 :
+o3 
+The Drying Time for this Printing Group: 0.1115360266
+The Drying Time for this Printing Group which computing with Newton Method is: 0.1115360266
+Printing Group 2 :
+o1 
+The Drying Time for this Printing Group: 1.7847544881
+The Drying Time for this Printing Group which computing with Newton Method is: 1.7847544881
+Printing Group 3 :
+o2 
+The Drying Time for this Printing Group: 1.7847544882
+The Drying Time for this Printing Group which computing with Newton Method is: 1.7847544881
+
+Total Printing Group: 3
+Total Sum of Drying Time is: 3.6810450028
+Total Sum of Drying Time with Newton Method is: 3.6810450028

@@ -1,0 +1,7 @@
+o5
+o7
+o9
+o11
+The Number of Objects: 4
+The Drying Time for this Layer is: 1.5745205724
+The Drying Time for this Layer which computing with Newton Method is: 1.5745205719

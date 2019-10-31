@@ -1,0 +1,9 @@
+o6
+o7
+o13
+o14
+o19
+o21
+o22
+The Number of Objects: 7
+The Drying Time for this Layer is: 0.8958399459

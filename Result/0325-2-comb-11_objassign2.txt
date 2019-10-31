@@ -1,0 +1,8 @@
+o2
+o11
+o14
+o17
+o20
+The total number of objects: 5
+The total drying time for this layer is: 0.5452224972
+7
