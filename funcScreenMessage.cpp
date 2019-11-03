@@ -48,7 +48,7 @@ void funcScreenMessage()
 	{
 	    if((includes(c->setp.begin(),c->setp.end(),sotmp.begin(),sotmp.end()))&&(includes(sotmp.begin(),sotmp.end(),c->setp.begin(),c->setp.end())))
 	    {
-		cout<<"The Drying Time for this Layer which computing with Newton Method is: "<<c->maxdt<<endl;
+		cout<<"The Drying Time for this Printing Group which computing with Newton Method is: "<<c->maxdt<<endl;
 		dtmp2+=c->maxdt;
 		break;
 	    }

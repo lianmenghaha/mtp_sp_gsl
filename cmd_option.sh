@@ -37,16 +37,6 @@ elif [ "$1" == "5" ]; then
 		Case: 0326-5
 		"
 	time ./main ExtractedInfo/output20190326/260319/20190326_5/190326EDALAPLACE5/objects.txt ExtractedInfo/output20190326/260319/20190326_5/190326EDALAPLACE5/conflict.txt 3600 10 Result/0326-5 Sub_op_sol/0326-5_subop
-elif [ "$1" == "6" ]; then
-	echo "
-		Case: 2-Comb-11
-		"
-	time ./main ExtractedInfo/output20190325/201903251056/190325EDAIDESFORTMT/objects.txt ExtractedInfo/output20190325/201903251056/190325EDAIDESFORTMT/conflict.txt ExtractedInfo/output20190325/201903251056/190325EDAIDESFORTMT/dtime11.txt 9000 Result/0325-2-comb-11 Sub-op-sol/0325-2-comb-11
-elif [ "$1" == "7" ]; then
-	echo "
-		Case: 2-Comb-17
-		"
-	time ./main ExtractedInfo/output20190325/201903251056/190325EDAIDESFORTMT/objects.txt ExtractedInfo/output20190325/201903251056/190325EDAIDESFORTMT/conflict.txt ExtractedInfo/output20190325/201903251056/190325EDAIDESFORTMT/dtime17.txt 3600 Result/0325-2-comb-17
 else
 	echo "NON-supported case!!!!!"
 fi

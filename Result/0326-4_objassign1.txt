@@ -2,3 +2,4 @@ o2
 o4
 The Number of Objects: 2
 The Drying Time for this Layer is: 0.1589582302
+The Drying Time for this Layer which computing with Newton Method is: 0.1589582644
